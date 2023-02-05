@@ -1,0 +1,20 @@
+.app-footer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 25px 0;
+    text-align: center;
+    background-color: #7f0000;
+    color: #FFFF;
+    font-style: normal;
+}
+.footer-top {
+    font-weight: 300;
+}
+.footer-bottom {
+    font-weight: 200;
+}
+.footer-bottom > .footer-text-copyright {
+    margin: 15px 0;
+}
